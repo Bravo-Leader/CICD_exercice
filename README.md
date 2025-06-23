@@ -1,3 +1,4 @@
+![CI Node.js](https://github.com/Bravo-Leader/CICD_exercice/actions/workflows/ci.yml/badge.svg)
 
 # Atelier GitHub Actions : CI avec Node.js
 
